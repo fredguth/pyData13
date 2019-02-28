@@ -1,1 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fredguth/ML_lesson/master)
+
+# pyData13
+Deep Learning na Prática: da motivação ao código
